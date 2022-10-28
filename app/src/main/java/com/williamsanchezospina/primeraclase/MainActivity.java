@@ -18,7 +18,7 @@ TextView tvSubtitulo;
         setContentView(R.layout.activity_main);
 
         tvTitulo = findViewById(R.id.tvTitulo);
-        tvTitulo.setText("Primera Clase");
+        //tvTitulo.setText("Primera Clase");
 
         tvSubtitulo = findViewById(R.id.tvSubtitulo);
         tvSubtitulo.setText("Para la Segunda Clase Cambiar RAM de la PC");
